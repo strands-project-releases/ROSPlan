@@ -2,6 +2,11 @@
 Changelog for package rosplan_planning_system
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2016-04-19)
+------------------
+* added mongdb_store dependency
+* Contributors: Marc Hanheide
+
 0.0.1 (2016-04-19)
 ------------------
 * added missing compile dependency for planning lib

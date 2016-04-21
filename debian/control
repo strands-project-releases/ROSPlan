@@ -1,0 +1,12 @@
+Source: ros-indigo-rosplan-dispatch-msgs
+Section: misc
+Priority: extra
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-diagnostic-msgs, ros-indigo-genmsg, ros-indigo-message-generation, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-std-msgs
+Homepage: https://github.com/KCL-Planning/ROSPlan
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rosplan-dispatch-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-diagnostic-msgs, ros-indigo-genmsg, ros-indigo-message-generation, ros-indigo-message-runtime, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-std-msgs
+Description: PDDL action dispatch messages for the ROSPlan framework.

@@ -1,3 +1,34 @@
+## rosplan (indigo) - 0.0.5-0
+
+The packages in the `rosplan` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo rosplan` on `Fri, 09 Sep 2016 14:56:58 -0000`
+
+These packages were released:
+- `rosplan`
+- `rosplan_config`
+- `rosplan_demos`
+- `rosplan_dispatch_msgs`
+- `rosplan_interface_mapping`
+- `rosplan_interface_movebase`
+- `rosplan_knowledge_base`
+- `rosplan_knowledge_msgs`
+- `rosplan_planning_system`
+- `rosplan_rqt`
+
+Version of package(s) in repository `rosplan`:
+- upstream repository: https://github.com/LCAS/ROSPlan.git
+- release repository: https://github.com/strands-project-releases/ROSPlan.git
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## rosplan (indigo) - 0.0.4-0
 
 The packages in the `rosplan` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo rosplan` on `Thu, 21 Apr 2016 08:03:42 -0000`

@@ -1,0 +1,43 @@
+ros-indigo-rosplan-dispatch-msgs (0.0.5-0trusty) trusty; urgency=high
+
+  * homogenised versions to 0.0.0
+  * Revert "changed maintainer to not sending emails to the wrong people"
+    This reverts commit a041b5defb4c41ac131b209a72df57ff6358f7fe.
+  * the two bugs
+  * Planning as an action
+  * new service
+  * Contributors: Marc Hanheide, m312z
+
+ -- Marc Hanheide <marc@hanheide.net>  Fri, 09 Sep 2016 00:00:00 -0000
+
+ros-indigo-rosplan-dispatch-msgs (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Thu, 21 Apr 2016 00:00:00 -0000
+
+ros-indigo-rosplan-dispatch-msgs (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 20 Apr 2016 00:00:00 -0000
+
+ros-indigo-rosplan-dispatch-msgs (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 19 Apr 2016 00:00:00 -0000
+
+ros-indigo-rosplan-dispatch-msgs (0.0.1-0trusty) trusty; urgency=high
+
+  * changed maintainer to not sending emails to the wrong people
+  * Complete plan publishing
+  * Getting rid of catkin warnings. Everything so tidy.
+  * Started rewrite of planning system.
+    Added timed dispatch from PANDORA.
+    Added interfaces and knowledge base from SQUIRREL.
+  * Contributors: Marc Hanheide, michael
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 19 Apr 2016 00:00:00 -0000
+
+

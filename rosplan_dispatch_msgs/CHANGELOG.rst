@@ -2,6 +2,11 @@
 Changelog for package rosplan_dispatch_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2016-09-12)
+------------------
+* added actionlib
+* Contributors: Marc Hanheide
+
 0.0.5 (2016-09-09)
 ------------------
 * homogenised versions to 0.0.0

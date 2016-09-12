@@ -2,6 +2,9 @@
 Changelog for package rosplan_knowledge_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2016-09-12)
+------------------
+
 0.0.5 (2016-09-09)
 ------------------
 * Added getDomainPredicateDetails service.

@@ -1,0 +1,51 @@
+ros-indigo-rosplan-rqt (0.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- michael <michael.cashmore@kcl.ac.uk>  Mon, 12 Sep 2016 00:00:00 -0000
+
+ros-indigo-rosplan-rqt (0.0.5-0trusty) trusty; urgency=high
+
+  * Merge branch 'master' of https://github.com/KCL-Planning/ROSPlan into merge-upstream
+  * rqt problem view
+  * fixed bug, sending wrong value in rqt action dispatch
+  * fixed action feedback bug
+  * knowledge base to VAL; rqt dispatcher
+  * Revert "changed maintainer to not sending emails to the wrong people"
+    This reverts commit a041b5defb4c41ac131b209a72df57ff6358f7fe.
+  * Esterel plan graph
+  * Contributors: Marc Hanheide, m312z
+
+ -- michael <michael.cashmore@kcl.ac.uk>  Fri, 09 Sep 2016 00:00:00 -0000
+
+ros-indigo-rosplan-rqt (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Thu, 21 Apr 2016 00:00:00 -0000
+
+ros-indigo-rosplan-rqt (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 20 Apr 2016 00:00:00 -0000
+
+ros-indigo-rosplan-rqt (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 19 Apr 2016 00:00:00 -0000
+
+ros-indigo-rosplan-rqt (0.0.1-0trusty) trusty; urgency=high
+
+  * changed maintainer to not sending emails to the wrong people
+  * Changed playground to world in launch files
+  * Pause and Cancel commands
+  * Update UI added precondition false status
+  * Instance services in UI
+  * rqt UI initial commit
+  * Contributors: Marc Hanheide, m312z, michael
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 19 Apr 2016 00:00:00 -0000
+
+

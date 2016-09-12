@@ -2,6 +2,9 @@
 Changelog for package rosplan_rqt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2016-09-12)
+------------------
+
 0.0.5 (2016-09-09)
 ------------------
 * Merge branch 'master' of https://github.com/KCL-Planning/ROSPlan into merge-upstream

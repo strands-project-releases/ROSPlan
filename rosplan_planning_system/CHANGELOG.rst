@@ -2,6 +2,11 @@
 Changelog for package rosplan_planning_system
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.8 (2016-09-12)
+------------------
+* hack to install headers...
+* Contributors: Marc Hanheide
+
 0.0.7 (2016-09-12)
 ------------------
 * added missing install target

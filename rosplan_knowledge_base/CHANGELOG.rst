@@ -2,6 +2,9 @@
 Changelog for package rosplan_knowledge_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2016-09-12)
+------------------
+
 0.0.5 (2016-09-09)
 ------------------
 * Fixing duplicated parameter list in operators service (`#7 <https://github.com/LCAS/ROSPlan/issues/7>`_)

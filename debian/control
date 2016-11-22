@@ -1,0 +1,12 @@
+Source: ros-indigo-rosplan-knowledge-base
+Section: misc
+Priority: extra
+Maintainer: michael <michael.cashmore@kcl.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), flex, mongo-cxx-driver, ros-indigo-catkin, ros-indigo-diagnostic-msgs, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-rosplan-knowledge-msgs, ros-indigo-rospy, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf, ros-indigo-visualization-msgs
+Homepage: https://github.com/KCL-Planning/ROSPlan
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rosplan-knowledge-base
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, flex, mongo-cxx-driver, ros-indigo-diagnostic-msgs, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-rosplan-knowledge-msgs, ros-indigo-rospy, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf, ros-indigo-visualization-msgs
+Description: Sample Knowledge base for ROSPlan. Used to collect and store information used to build the planning model. The knowledge base is queried by the planning system to construct the model, and possibly by controllers to retrieve continuous information.
